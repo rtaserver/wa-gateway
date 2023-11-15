@@ -1,2 +1,4 @@
 node_modules/
 wa_credentials/
+package-lock.json
+pnpm-lock.yaml
